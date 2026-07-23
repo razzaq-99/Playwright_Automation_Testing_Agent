@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Agent QA" tests="1" failures="1" timestamp="2026-07-23T08:16:55.406786+00:00"><testcase name="Add to Cart the two iphones" classname="agent_qa"><failure message="" /></testcase></testsuite>
