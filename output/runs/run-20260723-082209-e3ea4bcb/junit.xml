@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<testsuite name="Agent QA" tests="1" failures="1" timestamp="2026-07-23T08:22:09.448277+00:00"><testcase name="Create my account on deepseek by using my gmail" classname="agent_qa"><failure message="" /></testcase></testsuite>
